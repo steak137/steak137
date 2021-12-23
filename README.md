@@ -1,7 +1,6 @@
+- C++ / C# Developer
 - Name: Vatan
-- Job: Developer Student
-- Country: German & Turkey
-- Interested at C++ C#
+- Learing: Java
 
 <!---
 Vatan0137/Vatan0137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
