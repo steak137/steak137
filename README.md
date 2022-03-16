@@ -9,4 +9,4 @@ I'm currently learning Ruby and Java languages.
 ## Contact With Me
 
 Discord: Steak#1337
-Twitter: [@WhataNX](https://twitter.com/_watanbtw) \
+Twitter: [@WhataNX](https://twitter.com/_watanbtw)
