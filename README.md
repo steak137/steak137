@@ -1,7 +1,5 @@
 ## About Me
 
-Hello, my name is watan. I developed myself in various programming languages.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chirless&show_icons=true&theme=dark&locale=en" alt="chirless" /></p>
 
-I'm working on C++ C#.
-
-I'm currently learning Ruby and Java languages.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirless&theme=dark" alt="chirless" /></p>
